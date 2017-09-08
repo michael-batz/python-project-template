@@ -1,13 +1,21 @@
-#! /usr/bin/env python3
+#!/usr/bin/env python
 """
-<sampleproject> main module
+name - <short discription>
 
-This is the main module of <sampleproject>
+<long discription>
 
+free software: you can redistribute it and/or modify
+it under the terms of the MIT License as published by
+the Massachusetts Institute of Technology
 
-:license: MIT, see LICENSE for more details
-:copyright: (c) 2017 by <name>, see AUTHORS for more details
+You should have received a copy of the MIT License along with core.
+If not, see <https://opensource.org/licenses/MIT>.
+
+@package sample/sampleproject
+@author "name <email>"
+@since date/version
 """
+
 import sys
 
 def main():
